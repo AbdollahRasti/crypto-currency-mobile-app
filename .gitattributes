@@ -1,1 +1,4 @@
 *.dart linguist-language=Dart
+# Ignore CMake-related files for language stats
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
