@@ -4,7 +4,10 @@
 *.rb linguist-vendored
 *.html linguist-vendored
 *.c linguist-vendored
-*.CMake linguist-vendored
+*.cmake linguist-generated
+
+CMakeLists.txt linguist-generated
+
 
 # Dart should be detected
 *.dart linguist-language=Dart
