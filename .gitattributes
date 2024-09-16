@@ -5,5 +5,13 @@ build/* linguist-generated
 windows/* linguist-generated
 macos/* linguist-generated
 
+# Ignore non-Dart language files
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.rb linguist-vendored
+*.swift linguist-vendored
+*.html linguist-vendored
+*.c linguist-vendored
+
 # Dart should be detected
 *.dart linguist-language=Dart
