@@ -14,9 +14,9 @@ The Crypto Prices Tracker App is a Flutter application designed to provide real-
 ## Screen Shots
 
 <div>
-  <img src="https://github.com/AbdollahRasti/crypto-currency-price-tracker/blob/main/assets/screenshot1.png" width="45%" style="display: inline-block; margin-right: 5%;" />
+  <img src="https://github.com/AbdollahRasti/crypto-currency-mobile-app/blob/master/assets/screenshot1.png" width="45%" style="display: inline-block; margin-right: 5%;" />
   
-  <img src="https://github.com/AbdollahRasti/crypto-currency-price-tracker/blob/main/assets/screenshot2.png" width="45%" style="display: inline-block;" />
+  <img src="https://github.com/AbdollahRasti/crypto-currency-mobile-app/blob/master/assets/screenshot2.png" width="45%" style="display: inline-block;" />
 </div>
 
 ## Prerequisites
