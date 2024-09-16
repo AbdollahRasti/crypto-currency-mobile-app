@@ -2,12 +2,13 @@
 
 ## Overview
 
-The Crypto Prices Tracker App is a Flutter application designed to provide real-time cryptocurrency price information. The app integrates with the CoinGecko API to fetch and display the latest data for various cryptocurrencies. It also includes Firebase-based push notifications and supports both light and dark themes.
+The Crypto Currency Prices Tracker App is a Flutter application designed to provide real-time cryptocurrency price information. The app integrates with the CoinGecko API to fetch and display the latest data for various cryptocurrencies. It also includes Firebase-based push notifications and supports both light and dark themes. **GetX** is used for state management and theme handling, ensuring a smooth and efficient user experience.
 
 ## Features
 
 - **Real-Time Cryptocurrency Prices**: Displays current prices for a wide range of cryptocurrencies.
-- **Theme Support**: Allows users to switch between light and dark themes.
+- **Theme Support**: Allows users to switch between light and dark themes using **GetX** for seamless theme changing.
+- **State Management with GetX**: Efficient and reactive state management to handle app data, user interactions, and UI updates.
 - **Push Notifications**: Provides real-time updates and notifications using Firebase.
 - **Cross-Platform**: Compatible with both Android and iOS devices.
 
