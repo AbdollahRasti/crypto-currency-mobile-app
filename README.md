@@ -33,5 +33,5 @@ Before you start, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crypto-prices-app.git
-cd crypto-prices-app
+git clone https://github.com/AbdollahRasti/crypto-currency-mobile-app
+cd crypto-currency-mobile-app
