@@ -2,9 +2,9 @@
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.rb linguist-vendored
-*.swift linguist-vendored
 *.html linguist-vendored
 *.c linguist-vendored
+*.CMake linguist-vendored
 
 # Dart should be detected
 *.dart linguist-language=Dart
