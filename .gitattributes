@@ -1,4 +1,9 @@
+# Ignore generated directories
+ios/* linguist-generated
+android/* linguist-generated
+build/* linguist-generated
+windows/* linguist-generated
+macos/* linguist-generated
+
+# Dart should be detected
 *.dart linguist-language=Dart
-# Ignore CMake-related files for language stats
-CMakeLists.txt linguist-vendored
-*.cmake linguist-vendored
